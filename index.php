@@ -3,7 +3,7 @@
 <head>
 	<title>Prueba 1</title>
 </head>
-<body>
+<BODY>
 
-</body>
+</BODY>
 </html>
